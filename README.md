@@ -1,1 +1,1 @@
-# deep-learning-portfolio-optimistion
+# Deep Learning for Portfolio Optimistion
